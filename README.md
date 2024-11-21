@@ -1,2 +1,3 @@
 # path-navigator
-techgeek
+
+## this repo contain program file to generate path for navigation using map API
